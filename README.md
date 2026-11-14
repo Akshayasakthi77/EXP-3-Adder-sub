@@ -82,7 +82,8 @@ endmodule
 ```
 
 ### Truth table
-<img width="645" height="87" alt="TT3" src="https://githuom/user-attachments/assets/37e33bb3-d647-45d5-b610-c255d7e41b8b" />
+ 
+ <img width="645" height="87" alt="TT3" src="https://githuom/user-attachments/assets/37e33bb3-d647-45d5-b610-c255d7e41b8b" />
 
 
 
