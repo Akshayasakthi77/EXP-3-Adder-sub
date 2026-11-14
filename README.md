@@ -82,8 +82,7 @@ endmodule
 ```
 
 ### Truth table
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/27a0948e-13c4-4816-bb52-a1c62c865252" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/126f640d-70dd-4242-bd99-ad722f410406" />
+<img width="645" height="87" alt="TT3" src="https://githuom/user-attachments/assets/37e33bb3-d647-45d5-b610-c255d7e41b8b" />
 
 
 
@@ -143,6 +142,8 @@ The Half Adder and Half Subtractor were realized using Verilog HDL:
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 
 ### Output
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c9de556b-35c2-4fcb-b3c0-cbcbec05d9f8" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/3a8d871a-28d9-4e9a-b28d-792df781285b" />
 
 
 ### Viva-Voce Questions
